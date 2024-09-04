@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>University Recommendations</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Recommended Universities</h1>
+        <div class="card-container">
+            {% for index, row in recommendations.iterrows() %}
+                <div class="card">
+                    <a href="{{ url_for('university_detail', university_name=row['University']) }}" class="card-link">
+                        <h2 class="card-title">{{ row['University'] }}</h2>
+                        <p class="card-location">{{ row['City'] }}, {{ row['Country'] }}</p>
+                        <p class="card-cost">Cost: ${{ row['Cost'] }}</p>
+                        <p class="card-ielts">IELTS Score: {{ row['IELTS Score'] }}</p>
+                    </a>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</body>
+</html>

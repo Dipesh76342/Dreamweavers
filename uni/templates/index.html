@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>University Recommendation System</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>University Recommendation System</h1>
+        <form action="/" method="post">
+            <label for="city">City:</label>
+            <input type="text" id="city" name="city" required>
+            
+            <label for="country">Country:</label>
+            <input type="text" id="country" name="country" required>
+            
+            <label for="cost">Maximum Budget (in dollars):</label>
+            <input type="number" id="cost" name="cost" required>
+            
+            <label for="subjects">Preferred Subjects (comma-separated):</label>
+            <input type="text" id="subjects" name="subjects" required>
+            
+            <label for="ielts">IELTS Score:</label>
+            <input type="number" step="0.1" id="ielts" name="ielts" required>
+            
+            <button type="submit">Get Recommendations</button>
+        </form>
+
+        <!-- Display recommendations if available -->
+        {% if recommendations is defined %}
+            <h2>Recommended Universities</h2>
+            <div class="card-container">
+                {% for index, row in recommendations.iterrows() %}
+                    <div class="card">
+                        <a href="{{ url_for('university_detail', university_name=row['University']) }}" class="card-link">
+                            <h2 class="card-title">{{ row['University'] }}</h2>
+                            <p class="card-location">{{ row['City'] }}, {{ row['Country'] }}</p>
+                            <p class="card-cost">Cost: ${{ row['Cost'] }}</p>
+                            <p class="card-ielts">IELTS Score: {{ row['IELTS Score'] }}</p>
+                        </a>
+                    </div>
+                {% endfor %}
+            </div>
+        {% endif %}
+    </div>
+</body>
+</html>

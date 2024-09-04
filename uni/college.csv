@@ -1,0 +1,1001 @@
+University,City,Cost,Subjects,Country,IELTS Score
+University of Edinburgh,Oxford,13557,"Biology, Business",UK,8.0
+LSE,Oxford,15311,"Biology, Law, Economics",UK,7.0
+Western University,Toronto,19446,"Biology, Computer Science, Mathematics, Economics",Canada,8.0
+University of Technology Sydney,Adelaide,18779,"Engineering, Mathematics, Business",Australia,8.0
+Western University,Ottawa,14944,"Biology, AI, Physics",Canada,6.0
+UPenn,Los Angeles,16454,"Business, Engineering",USA,7.0
+University of Waterloo,Ottawa,16180,"Business, Law",Canada,6.5
+University of Adelaide,Wollongong,14156,"Robotics, Computer Science, Mathematics, Physics",Australia,6.0
+Harvard,Los Angeles,19917,"Economics, Mathematics, Physics",USA,6.5
+University of Melbourne,Gold Coast,11363,"Economics, Engineering, AI, Mathematics",Australia,6.0
+Stanford,San Francisco,14699,"Economics, Biology, Business",USA,6.5
+University of Western Australia,Wollongong,12014,"Business, Physics, AI",Australia,7.5
+MIT,San Francisco,13680,"Engineering, Law, Economics, AI",USA,7.0
+University of Alberta,Vancouver,14129,"Engineering, Robotics",Canada,7.5
+Columbia,Palo Alto,19788,"Law, Engineering, Economics, AI",USA,8.0
+University of Melbourne,Adelaide,18608,"Economics, Physics",Australia,7.0
+University of Bristol,Liverpool,18396,"Law, Economics, Computer Science",UK,6.5
+University of Adelaide,Perth,11272,"Engineering, Economics, Mathematics, Computer Science",Australia,6.5
+MIT,Cambridge,11360,"AI, Business, Computer Science",USA,7.0
+University of Alberta,Edmonton,12764,"Engineering, Business",Canada,7.0
+Cambridge,Oxford,13942,"Computer Science, Economics, Engineering, Law",UK,6.5
+University of Western Australia,Adelaide,12098,"Computer Science, Engineering, Robotics, Mathematics",Australia,8.0
+RMIT University,Sydney,13144,"Business, Engineering, Robotics, AI",Australia,7.5
+Durham University,Edinburgh,18862,"Engineering, Computer Science",UK,7.5
+McGill University,Halifax,14479,"Law, Physics, AI",Canada,8.0
+University of Alberta,Toronto,19695,"Law, Biology, Engineering, Computer Science",Canada,6.5
+Oxford,Liverpool,15756,"Law, Economics, Robotics, Computer Science",UK,6.5
+York University,Vancouver,11881,"Mathematics, Physics, Biology",Canada,6.5
+UNSW,Adelaide,11855,"Engineering, Business",Australia,7.5
+Imperial College London,London,15220,"Robotics, Economics, Biology, AI",UK,8.0
+Duke,New York,14966,"AI, Physics, Robotics",USA,7.5
+UNSW,Adelaide,10533,"Engineering, Mathematics, Economics, Physics",Australia,7.5
+Monash University,Darwin,11690,"Robotics, Business, Law",Australia,7.5
+University of Waterloo,Toronto,16168,"Economics, AI, Computer Science, Mathematics",Canada,6.0
+University of Chicago,Durham,13570,"Mathematics, Computer Science",USA,7.5
+UBC,Toronto,11777,"Robotics, Business, Computer Science",Canada,6.5
+Harvard,Chicago,14643,"Business, Economics",USA,6.0
+University of Western Australia,Wollongong,12503,"Engineering, Physics, Robotics",Australia,8.0
+University of Melbourne,Perth,17902,"Robotics, Computer Science",Australia,8.0
+Caltech,Durham,16520,"Computer Science, Economics, Mathematics",USA,7.0
+ANU,Brisbane,10831,"Business, Computer Science, Law",Australia,6.0
+University of Queensland,Canberra,13723,"Economics, Law, Biology",Australia,8.0
+Caltech,Princeton,14117,"Physics, Engineering, Business, Mathematics",USA,6.5
+RMIT University,Brisbane,10567,"Biology, Mathematics",Australia,6.0
+MIT,Philadelphia,19483,"Robotics, Computer Science, Biology",USA,7.0
+University of Waterloo,Montreal,10908,"Robotics, Engineering",Canada,7.5
+Western University,Calgary,16139,"Economics, Mathematics",Canada,8.0
+Cambridge,Durham,15786,"Mathematics, Law, Business",UK,8.0
+University of Toronto,Calgary,11304,"Engineering, Law, Business",Canada,7.5
+University of Ottawa,Montreal,12968,"Computer Science, Business",Canada,8.0
+RMIT University,Canberra,10771,"Mathematics, AI",Australia,7.0
+Imperial College London,London,11431,"Computer Science, Economics, Engineering, Physics",UK,7.5
+University of Sydney,Darwin,15910,"AI, Robotics",Australia,7.5
+University of Toronto,Quebec City,13964,"Engineering, Economics, Biology, AI",Canada,6.0
+Caltech,Cambridge,17252,"Robotics, AI, Mathematics, Business",USA,7.5
+Columbia,Boston,10025,"Business, Robotics, AI",USA,6.0
+University of Melbourne,Hobart,10220,"Economics, Robotics, Biology, Engineering",Australia,6.0
+University of Technology Sydney,Hobart,18689,"Robotics, Engineering, Economics, Business",Australia,7.0
+Imperial College London,Oxford,17158,"Law, Physics",UK,7.5
+McMaster University,Toronto,18862,"Mathematics, AI, Biology",Canada,6.5
+MIT,San Francisco,10350,"Business, Biology",USA,8.0
+University of Queensland,Gold Coast,17217,"Mathematics, Biology, Physics, Economics",Australia,6.0
+University of Queensland,Hobart,13417,"Computer Science, Economics",Australia,7.0
+LSE,Glasgow,16333,"Economics, Physics, Law, Biology",UK,6.0
+MIT,Princeton,11872,"Law, Business",USA,7.0
+Western University,Halifax,14700,"Engineering, Business, Computer Science, Robotics",Canada,8.0
+Princeton,Palo Alto,12210,"Mathematics, Robotics, Physics, AI",USA,6.0
+Western University,Ottawa,17416,"Biology, Economics, Engineering",Canada,6.0
+University of Technology Sydney,Adelaide,18709,"AI, Robotics, Law",Australia,6.5
+University of Glasgow,Glasgow,13869,"Physics, Business",UK,7.5
+University of Toronto,Winnipeg,15457,"Law, Economics, Biology",Canada,6.0
+UNSW,Hobart,10691,"Physics, Business",Australia,6.0
+Stanford,San Francisco,12051,"Computer Science, Economics, Biology",USA,8.0
+University of Waterloo,Vancouver,19998,"Biology, Mathematics",Canada,6.5
+University of Ottawa,Victoria,17443,"Economics, Robotics, Biology, Mathematics",Canada,7.5
+McGill University,Montreal,11988,"Biology, Business, Engineering, Computer Science",Canada,7.0
+Western University,Vancouver,14709,"Mathematics, Physics, Economics, Robotics",Canada,7.5
+Harvard,San Francisco,14929,"Biology, Economics, Business, Physics",USA,6.0
+Monash University,Melbourne,13458,"Physics, Engineering",Australia,6.0
+University of Technology Sydney,Hobart,17498,"Law, Business",Australia,7.5
+Stanford,Los Angeles,13447,"Business, Mathematics",USA,7.5
+University of Melbourne,Darwin,10007,"Robotics, Mathematics, AI, Business",Australia,7.0
+University of Queensland,Canberra,18096,"Physics, Computer Science",Australia,6.0
+University of Alberta,Calgary,11845,"Physics, Economics, Engineering",Canada,7.5
+University of Bristol,Bristol,11881,"Economics, Mathematics, AI, Physics",UK,7.5
+Queen's University,Toronto,15379,"Computer Science, Business",Canada,6.5
+University of Western Australia,Perth,11686,"Mathematics, AI, Economics, Physics",Australia,6.0
+University of Bristol,Cambridge,15814,"AI, Mathematics, Law, Business",UK,6.0
+McMaster University,Victoria,19092,"Computer Science, Law, Engineering, Biology",Canada,6.5
+Queen's University,Quebec City,10824,"Robotics, Engineering, Computer Science",Canada,6.0
+Columbia,Princeton,13763,"Engineering, Physics, Mathematics, AI",USA,6.0
+University of Manchester,Liverpool,14069,"Economics, Robotics",UK,8.0
+Imperial College London,Liverpool,17423,"Law, Engineering",UK,7.0
+RMIT University,Sydney,11803,"Law, AI, Engineering",Australia,6.5
+University of Queensland,Adelaide,13531,"Physics, Mathematics, Engineering",Australia,8.0
+LSE,Cambridge,19481,"Engineering, Business",UK,6.5
+Harvard,Philadelphia,18777,"Economics, Physics, Law, Engineering",USA,8.0
+University of Bristol,Cambridge,12167,"Biology, AI, Economics",UK,8.0
+Duke,Los Angeles,18216,"Engineering, Robotics",USA,7.5
+University of Waterloo,Victoria,14900,"Mathematics, Economics",Canada,6.5
+Harvard,Durham,11757,"Economics, Mathematics, Business",USA,6.0
+McMaster University,Edmonton,19296,"Computer Science, AI, Robotics",Canada,7.5
+Duke,Boston,11376,"Economics, Mathematics",USA,6.0
+UNSW,Perth,17214,"Biology, Law, Physics",Australia,6.5
+UBC,Halifax,19974,"Mathematics, Law",Canada,6.0
+McMaster University,Vancouver,17569,"Robotics, Business, Computer Science, AI",Canada,6.5
+University of Edinburgh,Durham,16172,"Law, AI, Physics, Business",UK,7.5
+University of Waterloo,Montreal,17585,"Law, Computer Science, Economics, Mathematics",Canada,7.5
+Caltech,Durham,19489,"Law, Engineering, Business, Mathematics",USA,6.0
+University of Toronto,Vancouver,11100,"Economics, Business, Robotics, Mathematics",Canada,7.5
+Queen's University,Ottawa,14897,"Law, AI, Biology",Canada,6.0
+ANU,Brisbane,11097,"Robotics, Economics, Biology",Australia,8.0
+York University,Quebec City,15817,"Physics, Biology, Economics",Canada,6.0
+Queen's University,Ottawa,16174,"AI, Law, Business, Engineering",Canada,6.5
+Monash University,Darwin,12278,"Biology, Business, AI, Law",Australia,7.5
+University of Chicago,Boston,17460,"Computer Science, Law, Robotics",USA,7.5
+ANU,Canberra,12932,"Law, Engineering, AI",Australia,7.5
+Stanford,New York,17188,"Robotics, Physics",USA,6.0
+University of Bristol,Bristol,14619,"Economics, Engineering",UK,6.5
+University of Manchester,Leeds,11662,"Physics, Biology, Engineering, Law",UK,6.0
+ANU,Sydney,13971,"Physics, Engineering",Australia,6.5
+MIT,New York,15488,"Business, Engineering",USA,7.5
+UPenn,Chicago,13388,"Physics, Robotics, Economics, Business",USA,6.5
+Harvard,New York,12498,"Law, AI, Mathematics, Computer Science",USA,6.0
+University of Technology Sydney,Gold Coast,18435,"AI, Biology, Computer Science",Australia,8.0
+University of Adelaide,Brisbane,16947,"AI, Law",Australia,6.0
+University of Toronto,Toronto,15279,"AI, Mathematics",Canada,7.0
+Yale,Palo Alto,13120,"Economics, Engineering, Computer Science, Business",USA,6.5
+Cambridge,Durham,15222,"Engineering, Economics, Business, Mathematics",UK,6.0
+Stanford,New York,15270,"Engineering, Law",USA,7.5
+Stanford,Princeton,17996,"Law, Engineering, Physics, Business",USA,8.0
+University of Manchester,Durham,17023,"AI, Biology, Law",UK,7.5
+University of Ottawa,Edmonton,19460,"Business, Biology",Canada,7.5
+Stanford,Boston,19603,"Biology, AI, Economics",USA,7.0
+Duke,Palo Alto,16264,"Computer Science, Mathematics",USA,6.5
+York University,Ottawa,12715,"Computer Science, Mathematics, Robotics, Economics",Canada,7.5
+Durham University,Edinburgh,10517,"Biology, Engineering",UK,8.0
+Duke,San Francisco,13959,"Biology, Robotics, AI, Law",USA,6.0
+University of Edinburgh,Edinburgh,18987,"Engineering, Law, Physics, Computer Science",UK,7.0
+McGill University,Winnipeg,19168,"Computer Science, Biology, Physics, Law",Canada,6.0
+University of Edinburgh,Durham,16713,"Business, AI",UK,8.0
+York University,Ottawa,10931,"Biology, Law, Mathematics",Canada,6.0
+University of Adelaide,Darwin,12228,"Robotics, Engineering",Australia,8.0
+Cambridge,Leeds,11312,"Biology, Engineering",UK,7.0
+King's College London,Glasgow,13746,"Robotics, Engineering, Law",UK,7.5
+University of Alberta,Ottawa,12672,"Computer Science, Engineering, Mathematics",Canada,6.0
+Cambridge,Glasgow,17976,"Mathematics, AI, Robotics",UK,6.5
+Harvard,Chicago,13129,"Biology, AI, Economics",USA,6.5
+University of Edinburgh,Manchester,18064,"Mathematics, Physics, Biology",UK,6.0
+UBC,Edmonton,17838,"Biology, Physics, Engineering",Canada,8.0
+UBC,Quebec City,10150,"Mathematics, Robotics",Canada,7.5
+University of Western Australia,Sydney,17830,"Mathematics, AI, Law",Australia,7.0
+University of Waterloo,Quebec City,13416,"Engineering, Computer Science, Economics, Biology",Canada,7.5
+UBC,Winnipeg,19969,"Computer Science, Biology, Engineering, Robotics",Canada,7.5
+Cambridge,Durham,12517,"Physics, AI, Mathematics, Economics",UK,7.5
+University of Adelaide,Adelaide,13128,"Economics, Physics, Computer Science",Australia,8.0
+Imperial College London,Durham,10331,"Physics, Business, Economics",UK,6.0
+Cambridge,London,16480,"Mathematics, Engineering",UK,6.0
+MIT,Durham,10409,"Physics, Law",USA,8.0
+University of Western Australia,Brisbane,16284,"Physics, Business, Engineering, Economics",Australia,6.0
+Columbia,Durham,19697,"Biology, Physics, Robotics",USA,8.0
+Monash University,Perth,13940,"AI, Mathematics",Australia,8.0
+RMIT University,Wollongong,12935,"Economics, Law, Biology",Australia,8.0
+Western University,Toronto,10767,"Economics, Computer Science",Canada,7.5
+King's College London,Glasgow,14935,"Law, Robotics",UK,6.0
+University of Edinburgh,Durham,15866,"Computer Science, Biology",UK,7.0
+University of Edinburgh,Bristol,15082,"Biology, Law",UK,8.0
+University of Chicago,Princeton,10159,"Economics, Biology, Robotics, Law",USA,7.5
+UPenn,Princeton,13307,"Physics, Economics",USA,8.0
+Duke,Philadelphia,18194,"Business, AI, Engineering, Biology",USA,7.5
+University of Ottawa,Quebec City,10953,"Law, Robotics, Computer Science",Canada,6.5
+Durham University,Leeds,19185,"AI, Robotics",UK,6.5
+Duke,Palo Alto,13146,"Economics, Business, Computer Science",USA,6.0
+University of Technology Sydney,Sydney,11367,"Law, Business",Australia,6.5
+Duke,Boston,15208,"Business, Physics",USA,7.0
+University of Waterloo,Victoria,14328,"Economics, Computer Science, Physics",Canada,8.0
+MIT,Durham,12264,"Biology, Business, Physics, Mathematics",USA,6.5
+University of Technology Sydney,Brisbane,14623,"Computer Science, Physics",Australia,7.0
+University of Waterloo,Toronto,17194,"Mathematics, AI, Law, Engineering",Canada,8.0
+University of Technology Sydney,Gold Coast,18449,"AI, Law",Australia,7.0
+Monash University,Canberra,18225,"Biology, Economics, Robotics, Computer Science",Australia,6.0
+UBC,Vancouver,19546,"Biology, Business, Engineering",Canada,7.5
+McMaster University,Toronto,13514,"Robotics, Law",Canada,8.0
+Western University,Edmonton,13147,"Law, Physics, Biology",Canada,7.0
+ANU,Darwin,15732,"Economics, AI, Law, Physics",Australia,8.0
+University of Western Australia,Hobart,11919,"Business, Law, AI, Engineering",Australia,6.0
+LSE,Bristol,17070,"Engineering, Mathematics",UK,6.5
+Cambridge,Glasgow,11197,"Biology, Business, Computer Science, Physics",UK,7.0
+UBC,Toronto,17629,"Robotics, Mathematics",Canada,8.0
+Stanford,Boston,13037,"Robotics, Computer Science",USA,7.5
+Yale,Cambridge,10396,"Law, Computer Science",USA,6.0
+University of Melbourne,Adelaide,16122,"Robotics, AI",Australia,8.0
+McMaster University,Montreal,19609,"Biology, Business, Robotics",Canada,8.0
+UBC,Vancouver,16937,"Business, Engineering, Law",Canada,7.5
+University of Ottawa,Vancouver,18595,"Computer Science, AI, Business",Canada,7.5
+Harvard,Cambridge,12336,"Economics, Business, Physics",USA,8.0
+Western University,Quebec City,11919,"Computer Science, Physics, Engineering",Canada,6.5
+Columbia,San Francisco,15880,"Robotics, Physics",USA,7.5
+Cambridge,Edinburgh,16939,"Computer Science, Physics, Mathematics",UK,8.0
+Western University,Quebec City,10879,"Economics, Robotics, Computer Science, Business",Canada,7.0
+King's College London,Oxford,15809,"Robotics, Law",UK,7.5
+Western University,Quebec City,11207,"Biology, Robotics, AI, Law",Canada,6.0
+Queen's University,Vancouver,17565,"Biology, AI",Canada,7.5
+Monash University,Wollongong,17283,"Law, Engineering",Australia,8.0
+Western University,Halifax,13778,"Business, Computer Science, Economics",Canada,6.0
+Western University,Toronto,17226,"Business, Robotics, AI",Canada,7.0
+ANU,Wollongong,18565,"Robotics, Biology, Law, Economics",Australia,7.5
+Yale,Philadelphia,19850,"Law, Physics",USA,7.0
+Harvard,New York,11766,"Mathematics, AI, Robotics, Biology",USA,7.5
+Cambridge,London,18966,"Physics, Robotics, Economics, Mathematics",UK,8.0
+MIT,San Francisco,14436,"Biology, Robotics",USA,7.5
+Queen's University,Victoria,10272,"Computer Science, Mathematics",Canada,7.0
+University of Adelaide,Gold Coast,17916,"Mathematics, Business, AI, Physics",Australia,8.0
+University of Melbourne,Darwin,19435,"Business, Engineering, Mathematics, AI",Australia,7.0
+York University,Winnipeg,15327,"Engineering, Physics, Business, Robotics",Canada,8.0
+University of Toronto,Victoria,12964,"Biology, Business, Physics, Mathematics",Canada,7.0
+Harvard,Philadelphia,10200,"Mathematics, Physics, Biology, Business",USA,7.5
+University of Western Australia,Wollongong,13478,"Mathematics, Physics, Computer Science, Biology",Australia,6.5
+Western University,Quebec City,18497,"Business, Biology, Engineering, Law",Canada,6.0
+University of Alberta,Ottawa,13815,"Robotics, AI",Canada,6.0
+Queen's University,Halifax,14928,"Robotics, Mathematics, Business",Canada,6.0
+Durham University,London,12320,"Business, Computer Science",UK,6.5
+Western University,Toronto,16586,"Physics, AI",Canada,7.5
+Western University,Quebec City,11255,"Law, Economics",Canada,7.0
+McMaster University,Calgary,10573,"Economics, Robotics",Canada,7.5
+University of Ottawa,Calgary,13671,"Physics, AI",Canada,8.0
+University of Toronto,Winnipeg,10622,"Biology, AI",Canada,6.5
+University of Chicago,Chicago,10354,"Law, Biology, Economics, Mathematics",USA,7.5
+LSE,Cambridge,13893,"Economics, Computer Science, AI",UK,7.0
+University of Technology Sydney,Adelaide,16722,"Computer Science, Biology, Engineering, Mathematics",Australia,7.0
+UBC,Toronto,13161,"AI, Mathematics, Engineering",Canada,7.0
+University of Ottawa,Vancouver,12526,"Engineering, Computer Science",Canada,8.0
+RMIT University,Sydney,19213,"Robotics, Computer Science, Law",Australia,6.5
+University of Chicago,Palo Alto,16312,"Mathematics, Physics",USA,6.5
+University of Western Australia,Brisbane,10344,"AI, Engineering",Australia,6.0
+University of Glasgow,London,16886,"Computer Science, Business, Law, Engineering",UK,8.0
+Monash University,Gold Coast,14892,"Mathematics, Business, Computer Science, Law",Australia,7.5
+Cambridge,Bristol,10523,"AI, Computer Science, Economics, Business",UK,7.0
+Princeton,Palo Alto,19033,"Physics, Biology, Economics, Business",USA,6.5
+University of Bristol,London,15545,"Robotics, Biology, Law",UK,6.0
+McGill University,Victoria,13967,"Business, Biology, Law, Economics",Canada,6.0
+University of Technology Sydney,Melbourne,18046,"Computer Science, Economics, Mathematics",Australia,6.5
+University of Alberta,Vancouver,16959,"AI, Biology, Computer Science, Physics",Canada,6.0
+University of Adelaide,Wollongong,13633,"Physics, Engineering, Robotics",Australia,7.0
+Monash University,Sydney,13507,"AI, Biology, Law",Australia,7.5
+University of Queensland,Darwin,10270,"Mathematics, Computer Science, Economics",Australia,8.0
+University of Ottawa,Winnipeg,10131,"Business, AI",Canada,7.0
+York University,Montreal,15509,"Physics, Engineering, Robotics, Law",Canada,8.0
+Princeton,Chicago,14667,"Robotics, Physics, Business, Engineering",USA,7.0
+Yale,New York,13428,"Mathematics, Robotics",USA,6.5
+Stanford,Boston,12225,"Robotics, Computer Science, AI, Engineering",USA,8.0
+Harvard,Cambridge,18244,"Physics, Robotics, Law, Business",USA,6.0
+University of Sydney,Wollongong,14383,"Mathematics, Engineering, Biology",Australia,8.0
+McMaster University,Victoria,14261,"AI, Business, Computer Science, Economics",Canada,8.0
+University of Technology Sydney,Melbourne,16539,"Computer Science, Business, Robotics, Mathematics",Australia,7.5
+McGill University,Ottawa,11677,"Robotics, AI, Biology, Engineering",Canada,6.5
+University of Adelaide,Sydney,13253,"Physics, Law, AI, Biology",Australia,8.0
+University of Bristol,Manchester,14063,"Engineering, Robotics",UK,7.0
+York University,Quebec City,10268,"Mathematics, Biology, Engineering",Canada,7.0
+University of Bristol,Leeds,17127,"Physics, Engineering",UK,8.0
+University of Sydney,Hobart,14621,"Mathematics, Robotics",Australia,7.0
+University of Melbourne,Darwin,13995,"Physics, Mathematics",Australia,8.0
+University of Chicago,New York,16241,"Computer Science, Law, Physics",USA,6.5
+Monash University,Wollongong,19988,"Computer Science, Physics, Biology",Australia,7.5
+University of Toronto,Calgary,14322,"Computer Science, Economics, Mathematics",Canada,6.0
+University of Ottawa,Winnipeg,15793,"Mathematics, Economics, Computer Science, Robotics",Canada,6.0
+University of Technology Sydney,Perth,11606,"Law, Economics",Australia,7.5
+University of Manchester,Bristol,10935,"Physics, Law",UK,6.5
+University of Chicago,Princeton,12515,"Engineering, Law, Physics, Economics",USA,7.5
+York University,Winnipeg,18863,"Biology, Mathematics",Canada,6.0
+University of Western Australia,Sydney,11055,"Economics, Robotics, Business, AI",Australia,6.0
+King's College London,London,15188,"Law, Economics, Physics, Robotics",UK,8.0
+York University,Toronto,16678,"Physics, Robotics, Engineering, Economics",Canada,8.0
+University of Glasgow,Liverpool,13618,"Business, Physics, AI, Engineering",UK,8.0
+University of Ottawa,Halifax,14925,"AI, Biology, Law",Canada,7.0
+McGill University,Victoria,16760,"Biology, Robotics",Canada,7.5
+University of Waterloo,Calgary,12623,"Robotics, Physics, Economics, AI",Canada,6.5
+Duke,Philadelphia,11611,"Robotics, Physics, Economics",USA,8.0
+University of Edinburgh,Edinburgh,13872,"Physics, AI, Law",UK,7.0
+LSE,Edinburgh,13462,"Biology, Engineering, Physics, Robotics",UK,7.0
+University of Edinburgh,Cambridge,11951,"Robotics, Physics, AI",UK,7.5
+Monash University,Hobart,15443,"Biology, Mathematics, Engineering, Physics",Australia,6.0
+King's College London,London,11751,"Robotics, Business, AI",UK,8.0
+UPenn,Palo Alto,17231,"Business, Law",USA,6.5
+Imperial College London,Cambridge,14597,"Economics, Mathematics, Biology",UK,6.0
+York University,Montreal,17962,"Business, Engineering, Robotics, Computer Science",Canada,6.5
+Oxford,Oxford,11284,"Computer Science, Law",UK,7.0
+RMIT University,Melbourne,13372,"Economics, Business",Australia,7.0
+University of Glasgow,Oxford,18833,"Business, Biology, Robotics",UK,6.0
+Harvard,Chicago,19241,"Robotics, Biology",USA,7.0
+University of Alberta,Montreal,13599,"Law, AI, Computer Science, Engineering",Canada,6.0
+RMIT University,Melbourne,11525,"Robotics, Business",Australia,6.5
+Princeton,Philadelphia,12318,"Engineering, Physics, Law",USA,6.0
+University of Sydney,Sydney,11557,"Physics, Biology",Australia,6.0
+Columbia,Philadelphia,18184,"Economics, AI, Biology",USA,6.0
+UBC,Vancouver,11099,"Physics, Mathematics, AI",Canada,7.5
+King's College London,Cambridge,13967,"Engineering, Computer Science",UK,8.0
+LSE,Manchester,10740,"Biology, Robotics, Mathematics",UK,8.0
+University of Ottawa,Halifax,16321,"Biology, Physics, Engineering, AI",Canada,6.5
+ANU,Wollongong,10609,"AI, Physics",Australia,8.0
+LSE,Liverpool,17043,"Law, Engineering, Physics",UK,8.0
+MIT,Boston,16096,"Law, Robotics, Physics",USA,8.0
+RMIT University,Wollongong,10619,"Mathematics, Computer Science, Biology, Engineering",Australia,6.0
+University of Chicago,Durham,13097,"AI, Computer Science",USA,6.0
+MIT,Los Angeles,19479,"Robotics, Business",USA,7.0
+University of Waterloo,Montreal,10930,"Law, Computer Science, AI",Canada,6.0
+King's College London,Durham,18945,"Biology, Robotics",UK,6.0
+Cambridge,Liverpool,15965,"Engineering, Physics, Computer Science",UK,7.0
+Princeton,Palo Alto,17489,"Engineering, Computer Science, Business",USA,7.5
+UNSW,Brisbane,15928,"AI, Computer Science, Physics",Australia,7.5
+Oxford,Oxford,16561,"Engineering, Computer Science, Law",UK,7.0
+King's College London,London,14804,"AI, Biology, Economics, Physics",UK,6.0
+Durham University,Liverpool,18332,"Biology, Physics, Robotics, Business",UK,6.0
+UPenn,Cambridge,10608,"Biology, Computer Science",USA,7.0
+University of Western Australia,Adelaide,15808,"Computer Science, Mathematics, AI, Robotics",Australia,6.5
+ANU,Brisbane,17220,"Business, Mathematics, Law, AI",Australia,7.5
+University of Glasgow,Leeds,10285,"Physics, Economics, Biology, Engineering",UK,6.0
+Oxford,Manchester,15929,"Computer Science, Biology, Economics, Mathematics",UK,6.0
+Oxford,London,13227,"Biology, Robotics, Engineering",UK,6.0
+Duke,Princeton,17696,"Mathematics, Physics, AI",USA,8.0
+McMaster University,Winnipeg,18850,"Computer Science, Engineering, Biology",Canada,7.0
+King's College London,Durham,18666,"Mathematics, AI",UK,6.5
+King's College London,London,12807,"Mathematics, Biology, AI",UK,8.0
+University of Alberta,Halifax,19760,"Mathematics, Computer Science, Robotics, Engineering",Canada,8.0
+Oxford,Oxford,18203,"Biology, Law, Robotics, Business",UK,7.5
+Monash University,Melbourne,10555,"Biology, Physics, Law",Australia,8.0
+Columbia,Chicago,12371,"Physics, Computer Science, Law, Economics",USA,6.5
+University of Ottawa,Victoria,18725,"Robotics, Engineering",Canada,7.5
+University of Manchester,Durham,12435,"Robotics, Engineering, Economics, Physics",UK,6.0
+University of Toronto,Quebec City,15570,"Physics, Biology, AI",Canada,7.0
+Duke,Princeton,18621,"Computer Science, Mathematics",USA,7.5
+Harvard,Princeton,10578,"Biology, Mathematics",USA,6.5
+Harvard,New York,16910,"Business, Biology",USA,8.0
+University of Glasgow,Manchester,10863,"Engineering, Biology",UK,7.5
+University of Waterloo,Halifax,11034,"Business, AI, Physics",Canada,8.0
+University of Alberta,Vancouver,18140,"Mathematics, Biology, Physics, Robotics",Canada,6.5
+University of Adelaide,Perth,14432,"Physics, Economics, Law, Business",Australia,8.0
+University of Alberta,Victoria,13973,"Physics, Engineering, Mathematics",Canada,6.5
+University of Toronto,Edmonton,16611,"Robotics, Business, Computer Science",Canada,8.0
+UNSW,Gold Coast,19219,"Biology, Robotics, Business, Mathematics",Australia,8.0
+University of Edinburgh,Bristol,11620,"Law, Biology, Robotics, Business",UK,6.0
+University of Adelaide,Darwin,15978,"AI, Mathematics, Robotics, Computer Science",Australia,7.5
+Princeton,Durham,17449,"Law, Mathematics, Economics",USA,6.0
+UPenn,Chicago,15506,"AI, Economics, Biology",USA,8.0
+Harvard,Durham,19549,"Physics, Business",USA,6.5
+Oxford,Liverpool,10416,"AI, Robotics, Engineering, Business",UK,7.0
+University of Manchester,Bristol,16241,"Biology, Mathematics",UK,6.5
+Queen's University,Quebec City,19141,"Law, Business, Economics, AI",Canada,7.5
+McGill University,Edmonton,13885,"Biology, Business",Canada,8.0
+Queen's University,Vancouver,15606,"AI, Mathematics, Law",Canada,6.5
+University of Glasgow,Liverpool,19315,"Business, Engineering, AI, Law",UK,6.5
+Caltech,Los Angeles,17222,"Engineering, Business",USA,7.5
+University of Western Australia,Hobart,15227,"Engineering, Law, Computer Science",Australia,6.0
+UBC,Quebec City,14654,"AI, Physics, Law, Mathematics",Canada,7.5
+UNSW,Darwin,10771,"Computer Science, Engineering",Australia,6.5
+Oxford,Leeds,13110,"Computer Science, Physics, AI",UK,8.0
+University of Technology Sydney,Canberra,16795,"Mathematics, Biology",Australia,7.0
+Princeton,Los Angeles,12604,"Computer Science, Physics, Mathematics, Economics",USA,6.5
+Caltech,San Francisco,16755,"Engineering, Robotics",USA,7.0
+MIT,Princeton,13015,"Mathematics, Physics, Economics",USA,8.0
+University of Bristol,Cambridge,15402,"Mathematics, Biology, AI",UK,6.5
+Princeton,Philadelphia,15062,"AI, Engineering, Biology, Physics",USA,6.0
+Oxford,Leeds,15495,"Law, Engineering",UK,6.5
+ANU,Darwin,19496,"AI, Mathematics",Australia,7.0
+University of Alberta,Ottawa,18471,"Business, Biology",Canada,6.0
+Western University,Halifax,16863,"Mathematics, Robotics, AI",Canada,6.0
+University of Queensland,Gold Coast,15381,"Economics, Biology",Australia,6.0
+University of Sydney,Canberra,14488,"Law, Mathematics",Australia,6.5
+University of Manchester,Manchester,14181,"AI, Law, Business",UK,6.0
+University of Chicago,Philadelphia,17034,"Business, Robotics, Computer Science, Law",USA,6.5
+University of Adelaide,Adelaide,13773,"Physics, Computer Science, Business, Robotics",Australia,6.0
+Stanford,New York,14748,"Physics, Engineering, Computer Science, AI",USA,6.0
+University of Sydney,Darwin,15713,"AI, Physics, Economics, Biology",Australia,7.5
+University of Adelaide,Gold Coast,14249,"AI, Biology, Robotics, Economics",Australia,6.0
+University of Ottawa,Vancouver,10331,"Mathematics, Biology",Canada,8.0
+University of Bristol,Leeds,18447,"Law, Business, Biology, Robotics",UK,7.5
+RMIT University,Gold Coast,16875,"Biology, Business",Australia,7.5
+University of Melbourne,Darwin,12992,"Robotics, AI, Business, Biology",Australia,7.0
+University of Sydney,Perth,15253,"Engineering, Mathematics, Biology, Physics",Australia,7.5
+University of Alberta,Halifax,10998,"Law, Engineering, Business",Canada,6.5
+Oxford,Leeds,14793,"Law, Biology",UK,6.0
+Duke,Palo Alto,19521,"Engineering, Mathematics",USA,7.0
+University of Adelaide,Adelaide,10142,"Biology, Physics",Australia,8.0
+RMIT University,Melbourne,12083,"AI, Engineering",Australia,8.0
+University of Sydney,Wollongong,19588,"Mathematics, Biology",Australia,7.0
+LSE,London,17449,"Business, Computer Science, Mathematics, Engineering",UK,8.0
+University of Adelaide,Adelaide,15675,"Robotics, Computer Science, Business, Economics",Australia,7.5
+McMaster University,Edmonton,19642,"Mathematics, Robotics, Economics",Canada,7.0
+ANU,Wollongong,10359,"Robotics, Computer Science, Biology",Australia,8.0
+Harvard,Boston,18282,"Mathematics, Robotics, Engineering",USA,7.0
+Duke,Palo Alto,12468,"Robotics, Engineering, Physics",USA,7.0
+Columbia,Philadelphia,14665,"Engineering, Mathematics, Economics, Law",USA,7.0
+Princeton,Los Angeles,12200,"Robotics, AI, Law, Economics",USA,8.0
+University of Sydney,Hobart,19597,"Economics, Law",Australia,6.5
+University of Western Australia,Gold Coast,18033,"Mathematics, Economics, Biology, Robotics",Australia,6.0
+University of Queensland,Canberra,16666,"Biology, Business",Australia,7.0
+University of Waterloo,Vancouver,18121,"Business, Physics",Canada,6.0
+Princeton,Chicago,19419,"Computer Science, Biology, Economics",USA,6.0
+Cambridge,Liverpool,12451,"AI, Robotics",UK,7.0
+University of Queensland,Adelaide,11282,"Economics, Mathematics",Australia,6.0
+University of Bristol,Liverpool,19550,"Economics, Business",UK,8.0
+University of Adelaide,Brisbane,11741,"Physics, Engineering, Mathematics, Business",Australia,8.0
+Oxford,Durham,13339,"Robotics, Biology",UK,6.5
+University of Waterloo,Vancouver,18945,"Computer Science, Engineering, Economics",Canada,8.0
+University of Glasgow,London,11277,"Law, Mathematics, Physics",UK,6.5
+University of Western Australia,Adelaide,15417,"Robotics, Business, Law, Mathematics",Australia,7.0
+University of Ottawa,Edmonton,15922,"Economics, Law, AI",Canada,7.5
+Monash University,Gold Coast,11883,"Robotics, Mathematics, Business, Law",Australia,7.0
+University of Glasgow,Glasgow,16586,"Biology, Physics, Law",UK,7.0
+Imperial College London,Oxford,18026,"Computer Science, Law",UK,8.0
+University of Ottawa,Montreal,16217,"Law, Physics",Canada,8.0
+RMIT University,Brisbane,19160,"AI, Robotics",Australia,6.5
+University of Chicago,New York,18017,"Biology, Robotics",USA,6.0
+Cambridge,Liverpool,18043,"Business, Robotics, Mathematics, Engineering",UK,8.0
+Caltech,Los Angeles,19583,"Law, AI, Economics, Mathematics",USA,6.5
+York University,Toronto,16764,"Physics, Law",Canada,6.0
+Yale,Princeton,19951,"Physics, Law",USA,7.0
+University of Manchester,Durham,14315,"AI, Biology",UK,7.5
+McGill University,Quebec City,13133,"Computer Science, Mathematics, Engineering",Canada,6.0
+Queen's University,Victoria,18780,"Engineering, Mathematics, Physics",Canada,8.0
+Harvard,New York,16866,"Business, Economics, Biology, Law",USA,7.0
+Harvard,San Francisco,14966,"Economics, Robotics, Mathematics",USA,7.5
+Stanford,Los Angeles,17565,"Business, Engineering, Robotics",USA,8.0
+UNSW,Melbourne,11607,"Engineering, Law, Biology",Australia,7.5
+University of Waterloo,Toronto,15187,"Business, Economics, Physics, Robotics",Canada,7.5
+University of Manchester,Manchester,17385,"Robotics, Economics, Biology, Mathematics",UK,8.0
+Columbia,Durham,18112,"Mathematics, Engineering, Robotics",USA,8.0
+University of Technology Sydney,Canberra,13271,"Economics, Law, Mathematics",Australia,7.0
+McGill University,Calgary,15431,"Business, AI, Mathematics",Canada,6.0
+University of Adelaide,Wollongong,11786,"Law, AI",Australia,7.5
+University of Queensland,Darwin,12915,"Economics, AI, Robotics, Biology",Australia,7.5
+Queen's University,Vancouver,17861,"Biology, Computer Science, Engineering",Canada,6.0
+McMaster University,Montreal,13182,"Business, Physics",Canada,6.5
+King's College London,Glasgow,14128,"AI, Mathematics, Biology",UK,8.0
+University of Western Australia,Sydney,13910,"Computer Science, Physics",Australia,7.0
+University of Bristol,Glasgow,10246,"Computer Science, Robotics",UK,8.0
+Oxford,Oxford,16072,"Mathematics, AI, Biology, Engineering",UK,8.0
+Columbia,Palo Alto,18826,"Mathematics, Physics, Law, Business",USA,8.0
+Cambridge,Oxford,18146,"Computer Science, Law, Biology, AI",UK,6.0
+Caltech,Boston,14178,"Business, Economics, Robotics",USA,7.0
+University of Sydney,Perth,15109,"Law, Physics, Biology, Mathematics",Australia,6.0
+University of Melbourne,Canberra,16329,"AI, Robotics",Australia,7.0
+University of Technology Sydney,Hobart,16235,"Business, Economics",Australia,6.5
+RMIT University,Wollongong,14387,"AI, Law, Engineering",Australia,7.5
+UBC,Victoria,18594,"Robotics, Biology",Canada,8.0
+University of Alberta,Winnipeg,16269,"AI, Engineering, Law, Physics",Canada,7.0
+University of Ottawa,Montreal,11409,"Engineering, Business, Law",Canada,7.5
+University of Manchester,Durham,17569,"Law, Biology, Engineering, Computer Science",UK,7.0
+University of Adelaide,Adelaide,15863,"Law, Computer Science",Australia,6.0
+UNSW,Perth,10021,"Economics, Physics, Business",Australia,6.5
+RMIT University,Perth,14648,"Robotics, Economics, Physics",Australia,6.5
+Queen's University,Quebec City,18069,"Physics, Business, Biology",Canada,6.0
+ANU,Sydney,14177,"Robotics, Economics, Mathematics",Australia,7.5
+University of Queensland,Perth,11758,"Physics, AI",Australia,7.5
+UNSW,Hobart,12866,"Business, Economics",Australia,7.5
+Caltech,San Francisco,13011,"Mathematics, Biology, Computer Science",USA,6.0
+McGill University,Vancouver,19315,"Economics, Robotics, AI, Biology",Canada,6.0
+King's College London,Cambridge,17966,"AI, Engineering, Robotics, Business",UK,8.0
+University of Edinburgh,Cambridge,16256,"AI, Business, Robotics",UK,8.0
+Queen's University,Calgary,12292,"Economics, Mathematics, Law",Canada,6.5
+University of Sydney,Melbourne,14463,"AI, Engineering",Australia,6.5
+Yale,Durham,18306,"AI, Mathematics, Robotics, Economics",USA,7.5
+University of Adelaide,Melbourne,13724,"Computer Science, Physics, Business",Australia,8.0
+McGill University,Ottawa,19391,"Computer Science, Mathematics, Biology, Law",Canada,8.0
+Imperial College London,Glasgow,18177,"Economics, Mathematics, Law",UK,6.0
+Princeton,Princeton,16768,"Mathematics, Law, Robotics, Biology",USA,8.0
+Princeton,Philadelphia,17311,"Engineering, Mathematics, Law, Biology",USA,6.0
+University of Bristol,Manchester,15688,"Robotics, Law, Economics",UK,6.0
+Imperial College London,Leeds,17030,"Robotics, Computer Science",UK,8.0
+University of Adelaide,Brisbane,17109,"Law, Economics",Australia,7.0
+UNSW,Hobart,11316,"Law, Mathematics, Business, AI",Australia,6.0
+UPenn,Palo Alto,19121,"Engineering, Biology",USA,6.5
+Stanford,Durham,18580,"Engineering, Robotics, AI",USA,6.5
+UPenn,Durham,12097,"Business, Physics",USA,8.0
+University of Manchester,Oxford,12878,"Business, Law, Biology, Physics",UK,7.5
+Oxford,Edinburgh,10220,"AI, Law, Biology",UK,6.0
+Queen's University,Vancouver,12582,"Engineering, Physics, Mathematics, Law",Canada,8.0
+Western University,Calgary,17516,"Economics, Physics, Computer Science",Canada,7.0
+Oxford,London,18663,"Engineering, Business",UK,7.5
+UBC,Quebec City,15218,"Mathematics, Business, Economics, AI",Canada,6.0
+Imperial College London,Glasgow,13252,"Mathematics, Biology, Engineering",UK,6.0
+University of Western Australia,Adelaide,16622,"AI, Physics",Australia,6.5
+ANU,Melbourne,13456,"Law, Physics, Economics",Australia,7.0
+Caltech,Boston,18517,"Law, Robotics, Engineering, Business",USA,7.5
+University of Bristol,Glasgow,14464,"Law, Economics, Computer Science, Business",UK,7.5
+Monash University,Wollongong,11048,"Biology, Robotics",Australia,7.5
+Princeton,Palo Alto,11051,"AI, Physics",USA,7.0
+University of Glasgow,Manchester,12168,"AI, Biology, Economics",UK,7.0
+University of Chicago,San Francisco,10306,"Mathematics, Law",USA,6.0
+UBC,Quebec City,10457,"Robotics, Biology, Mathematics",Canada,7.5
+Harvard,Princeton,19941,"Biology, Mathematics, Robotics, AI",USA,6.5
+Stanford,Philadelphia,16248,"Law, Engineering, Economics",USA,7.5
+Columbia,New York,18641,"AI, Engineering, Economics, Biology",USA,6.0
+University of Edinburgh,Oxford,18323,"Engineering, Biology, Business",UK,6.5
+Cambridge,Durham,17867,"Biology, Computer Science, Business",UK,6.5
+Duke,San Francisco,19516,"Biology, Engineering, Business, Physics",USA,6.5
+McGill University,Victoria,10877,"Biology, Physics, Computer Science, Robotics",Canada,8.0
+University of Glasgow,Oxford,13509,"Biology, Robotics",UK,8.0
+University of Melbourne,Canberra,19226,"Law, Computer Science",Australia,6.0
+McGill University,Halifax,10123,"Physics, Computer Science, Business",Canada,7.0
+Western University,Montreal,14641,"Biology, Law, Robotics",Canada,6.5
+King's College London,Glasgow,11314,"Business, Robotics, Economics, Biology",UK,7.5
+University of Ottawa,Calgary,14027,"Physics, Business, Mathematics",Canada,6.0
+University of Sydney,Brisbane,14328,"Mathematics, AI, Business",Australia,8.0
+Queen's University,Winnipeg,19988,"Computer Science, Biology",Canada,7.0
+Durham University,Manchester,13146,"Mathematics, Computer Science, Biology, AI",UK,6.5
+UBC,Calgary,15236,"Economics, Business, Physics, Robotics",Canada,6.5
+University of Queensland,Wollongong,13556,"Biology, Computer Science, Robotics",Australia,6.0
+Princeton,New York,13625,"Engineering, Law, Computer Science",USA,7.5
+University of Western Australia,Brisbane,18632,"Business, Computer Science",Australia,8.0
+University of Ottawa,Toronto,16333,"Law, AI",Canada,7.5
+LSE,Durham,15448,"Computer Science, Business, Robotics, AI",UK,6.5
+University of Edinburgh,Oxford,19299,"Robotics, Physics, AI",UK,8.0
+UPenn,Palo Alto,19170,"Engineering, Robotics, Business",USA,7.5
+University of Chicago,New York,15678,"Business, Physics, Robotics",USA,8.0
+University of Glasgow,Oxford,18184,"Business, Law, Computer Science, Engineering",UK,7.0
+UBC,Victoria,13329,"Physics, Biology, Mathematics, AI",Canada,8.0
+UBC,Quebec City,12303,"Robotics, Biology",Canada,7.5
+Western University,Calgary,19802,"Business, Economics, Robotics, Computer Science",Canada,6.0
+University of Ottawa,Toronto,19941,"Law, Robotics, Biology, AI",Canada,6.5
+University of Alberta,Quebec City,10150,"Biology, AI, Computer Science, Mathematics",Canada,8.0
+University of Manchester,Glasgow,16264,"Physics, Economics",UK,8.0
+Columbia,Chicago,11994,"Law, Economics",USA,7.0
+Cambridge,Leeds,18505,"Computer Science, Biology, Engineering, AI",UK,8.0
+MIT,Philadelphia,15781,"AI, Engineering",USA,7.5
+UBC,Quebec City,18671,"Mathematics, Business",Canada,6.5
+Western University,Quebec City,15464,"Engineering, Physics, Biology, Mathematics",Canada,7.0
+University of Western Australia,Hobart,10651,"Economics, Physics, Computer Science",Australia,8.0
+UPenn,Boston,11972,"Biology, Business",USA,6.5
+Caltech,Cambridge,14320,"Law, Physics, Robotics, Engineering",USA,7.0
+McGill University,Winnipeg,15334,"Robotics, Mathematics",Canada,7.0
+University of Queensland,Brisbane,10562,"Computer Science, Physics, Robotics, Law",Australia,7.0
+Monash University,Hobart,10917,"Business, AI",Australia,7.0
+Cambridge,Bristol,12430,"AI, Business, Computer Science",UK,7.5
+Harvard,Chicago,12123,"Robotics, Business, Economics",USA,8.0
+Western University,Calgary,12152,"Business, Law, Mathematics",Canada,7.0
+Cambridge,Oxford,12458,"Economics, Business",UK,6.0
+Columbia,Cambridge,10002,"Engineering, Physics, Biology, AI",USA,7.0
+University of Alberta,Halifax,18573,"Law, Business, Economics",Canada,7.0
+Yale,Durham,13321,"Computer Science, Law, Physics",USA,7.5
+Columbia,Chicago,13312,"Mathematics, Law, AI",USA,8.0
+University of Chicago,Palo Alto,18360,"Physics, Business",USA,6.5
+Oxford,Leeds,15579,"Computer Science, Robotics, Physics, Business",UK,6.0
+University of Technology Sydney,Wollongong,14130,"Computer Science, Law, AI",Australia,7.0
+Monash University,Melbourne,15232,"Business, Robotics",Australia,7.0
+Caltech,Philadelphia,15342,"AI, Business, Mathematics, Physics",USA,8.0
+University of Technology Sydney,Canberra,11322,"Engineering, AI",Australia,6.5
+Columbia,Cambridge,16850,"Law, Economics, Robotics",USA,7.5
+Western University,Halifax,14475,"Economics, Physics",Canada,6.5
+University of Melbourne,Wollongong,17600,"AI, Engineering, Biology",Australia,7.5
+Imperial College London,Edinburgh,15471,"Engineering, AI, Mathematics, Economics",UK,6.0
+University of Alberta,Victoria,13494,"Biology, Law, AI",Canada,8.0
+Caltech,Palo Alto,10738,"Economics, Mathematics",USA,6.5
+University of Queensland,Canberra,10245,"Economics, Computer Science, Mathematics",Australia,7.0
+University of Sydney,Melbourne,19037,"Business, Physics, Mathematics, Engineering",Australia,6.0
+University of Alberta,Victoria,12581,"Law, Computer Science, Engineering",Canada,8.0
+University of Manchester,Edinburgh,11889,"Mathematics, Physics",UK,7.0
+Western University,Quebec City,19188,"Economics, Business, Computer Science, Law",Canada,6.0
+University of Chicago,Cambridge,18827,"Computer Science, Physics",USA,7.0
+Imperial College London,Liverpool,19446,"Physics, Business, Engineering",UK,6.0
+University of Melbourne,Wollongong,14098,"Robotics, Computer Science, Biology, Mathematics",Australia,6.0
+University of Ottawa,Toronto,13458,"Business, Computer Science",Canada,7.0
+University of Waterloo,Halifax,12331,"Computer Science, Physics",Canada,6.0
+ANU,Sydney,16978,"Business, Engineering, Economics",Australia,7.0
+Durham University,Bristol,15629,"Law, Biology, Computer Science",UK,7.0
+University of Edinburgh,Leeds,16531,"Mathematics, Law",UK,8.0
+University of Sydney,Wollongong,16461,"Physics, Biology",Australia,6.0
+Durham University,Manchester,19438,"Mathematics, AI, Computer Science, Physics",UK,7.0
+University of Alberta,Ottawa,13675,"Business, Biology, Mathematics",Canada,6.0
+Durham University,Oxford,14835,"Robotics, Computer Science",UK,6.0
+Columbia,Cambridge,15317,"Biology, Engineering",USA,8.0
+RMIT University,Brisbane,16485,"Computer Science, Robotics, Engineering",Australia,6.5
+MIT,Philadelphia,15698,"Biology, Robotics",USA,8.0
+Oxford,Liverpool,15025,"Biology, Computer Science, Robotics, AI",UK,7.5
+University of Alberta,Calgary,10896,"Mathematics, Computer Science, Biology, Physics",Canada,7.5
+Monash University,Perth,17584,"Computer Science, Robotics, Mathematics",Australia,6.0
+University of Bristol,Oxford,16547,"Law, Economics, Mathematics, AI",UK,6.0
+University of Queensland,Hobart,16555,"Robotics, AI, Biology",Australia,7.5
+University of Manchester,London,13350,"Engineering, Computer Science, Business, Mathematics",UK,7.5
+University of Melbourne,Gold Coast,12493,"Mathematics, Business, Physics, Economics",Australia,6.0
+University of Bristol,Durham,17222,"Physics, Computer Science, Business, Mathematics",UK,8.0
+Yale,San Francisco,10077,"Physics, Biology, Law",USA,6.5
+RMIT University,Brisbane,10792,"Physics, Mathematics, AI",Australia,7.5
+Harvard,Durham,18129,"Robotics, AI, Biology, Computer Science",USA,7.5
+University of Bristol,Manchester,18275,"Engineering, Physics, AI",UK,7.0
+UNSW,Canberra,10045,"Business, Mathematics, Robotics",Australia,7.5
+LSE,Glasgow,12184,"Biology, Business, Law",UK,6.5
+Monash University,Perth,13464,"Biology, Computer Science",Australia,6.0
+Oxford,Liverpool,19326,"Law, Engineering",UK,7.5
+University of Waterloo,Edmonton,16091,"Business, AI",Canada,6.0
+Caltech,Princeton,12906,"Robotics, Computer Science, Law, AI",USA,7.5
+RMIT University,Sydney,16343,"Biology, Robotics, Engineering, AI",Australia,8.0
+Imperial College London,London,10107,"Computer Science, AI",UK,7.5
+UNSW,Brisbane,17128,"AI, Law, Computer Science, Economics",Australia,7.0
+UBC,Calgary,16191,"Physics, Economics, Mathematics",Canada,6.0
+RMIT University,Darwin,19866,"Computer Science, Engineering",Australia,8.0
+University of Adelaide,Darwin,16422,"Computer Science, Business",Australia,6.0
+MIT,Palo Alto,17087,"Biology, Computer Science, Economics",USA,7.5
+McGill University,Victoria,17164,"Computer Science, Biology",Canada,7.0
+Princeton,Philadelphia,18273,"Robotics, Law, Computer Science",USA,6.0
+Durham University,Glasgow,12482,"Computer Science, Biology, AI, Robotics",UK,7.5
+Cambridge,Manchester,13235,"Business, Biology",UK,6.0
+ANU,Canberra,14904,"Computer Science, Economics, Mathematics",Australia,7.5
+York University,Quebec City,16926,"Computer Science, Mathematics, Robotics, AI",Canada,7.0
+University of Sydney,Brisbane,16309,"Robotics, Physics, Economics",Australia,6.0
+Imperial College London,Edinburgh,10666,"Law, Biology, Robotics, Physics",UK,6.0
+UPenn,Los Angeles,19270,"Business, Physics, Engineering, AI",USA,6.0
+Harvard,Palo Alto,16457,"Law, Robotics, Computer Science",USA,6.0
+University of Technology Sydney,Brisbane,16318,"Physics, Robotics, Engineering, AI",Australia,7.5
+Stanford,New York,15710,"Business, Computer Science, Mathematics",USA,7.0
+University of Western Australia,Sydney,13604,"AI, Physics, Biology",Australia,6.5
+Queen's University,Victoria,13138,"Economics, AI",Canada,7.0
+University of Sydney,Melbourne,11488,"AI, Biology, Physics",Australia,6.5
+University of Melbourne,Hobart,15364,"Robotics, Physics, Business, AI",Australia,6.5
+Stanford,Princeton,18631,"Economics, Physics, Law, AI",USA,7.0
+Stanford,Palo Alto,16194,"Physics, Mathematics",USA,7.0
+Princeton,Durham,19013,"Economics, Engineering, Mathematics, Business",USA,6.5
+University of Alberta,Edmonton,16434,"Mathematics, AI, Physics, Business",Canada,8.0
+University of Technology Sydney,Gold Coast,16872,"AI, Physics, Robotics, Biology",Australia,6.0
+York University,Vancouver,13021,"Law, AI, Biology, Engineering",Canada,7.0
+University of Chicago,San Francisco,14870,"Biology, AI, Physics",USA,8.0
+University of Manchester,Bristol,10350,"Robotics, Business",UK,6.0
+University of Sydney,Gold Coast,11487,"Computer Science, AI, Economics, Robotics",Australia,6.0
+LSE,Oxford,15370,"Biology, Physics, Robotics, AI",UK,8.0
+McGill University,Toronto,13065,"Biology, Physics, Mathematics, Engineering",Canada,7.0
+Yale,San Francisco,10112,"Computer Science, Physics",USA,7.0
+University of Melbourne,Wollongong,16944,"Computer Science, Law",Australia,6.0
+University of Technology Sydney,Sydney,12741,"Mathematics, Engineering",Australia,8.0
+University of Alberta,Quebec City,12146,"AI, Business",Canada,6.5
+Columbia,Princeton,15562,"Robotics, Biology",USA,7.0
+Yale,Chicago,16622,"Engineering, Business, Mathematics, Biology",USA,7.0
+McGill University,Vancouver,13509,"Business, Economics, Biology, AI",Canada,6.5
+University of Glasgow,Glasgow,13349,"Robotics, Economics, Law",UK,6.0
+University of Manchester,Bristol,16318,"Engineering, AI, Business",UK,7.0
+Columbia,Cambridge,14791,"AI, Engineering",USA,6.5
+Durham University,Durham,14710,"Law, Physics, Engineering",UK,7.5
+ANU,Hobart,18194,"Law, Engineering, Computer Science, Business",Australia,6.0
+Monash University,Hobart,13043,"Law, AI, Computer Science",Australia,6.0
+University of Alberta,Halifax,10964,"Economics, Computer Science, Biology",Canada,7.0
+University of Technology Sydney,Wollongong,18694,"Computer Science, Biology",Australia,8.0
+University of Alberta,Quebec City,10361,"Computer Science, AI, Biology, Physics",Canada,8.0
+Imperial College London,Liverpool,12344,"Biology, Engineering",UK,6.0
+Duke,Los Angeles,10987,"Computer Science, Business, Economics",USA,7.5
+King's College London,Cambridge,18415,"Economics, Engineering, Mathematics",UK,6.0
+University of Waterloo,Winnipeg,11476,"Physics, Mathematics, Economics",Canada,7.5
+Durham University,Oxford,13075,"Physics, AI, Engineering, Biology",UK,6.5
+University of Manchester,Manchester,18558,"Law, Computer Science, Robotics, Business",UK,7.5
+Columbia,Philadelphia,11130,"Law, Physics, AI",USA,8.0
+Imperial College London,Manchester,19404,"Robotics, Mathematics",UK,6.0
+Princeton,Los Angeles,15347,"Computer Science, AI, Robotics",USA,7.0
+RMIT University,Canberra,13052,"AI, Business, Mathematics, Engineering",Australia,7.5
+University of Toronto,Toronto,13644,"Business, Physics",Canada,7.0
+University of Glasgow,Bristol,14480,"Law, Physics, Biology, Robotics",UK,7.5
+University of Adelaide,Canberra,17944,"Physics, Biology, Computer Science, AI",Australia,6.5
+University of Western Australia,Gold Coast,18956,"Economics, Business",Australia,6.0
+Durham University,Bristol,19340,"Physics, Computer Science, Engineering",UK,8.0
+Monash University,Sydney,14599,"Law, Physics, Engineering",Australia,7.5
+University of Alberta,Quebec City,16640,"Engineering, Physics, Law",Canada,7.0
+Harvard,New York,11377,"Law, Robotics",USA,6.5
+University of Adelaide,Gold Coast,10782,"Engineering, Economics, Physics",Australia,6.5
+University of Western Australia,Wollongong,16623,"Robotics, Economics",Australia,8.0
+Western University,Vancouver,16870,"Mathematics, Biology, AI",Canada,6.0
+Oxford,Liverpool,15580,"Law, Economics, Robotics",UK,7.0
+University of Alberta,Ottawa,12792,"Physics, Biology, Robotics",Canada,7.5
+LSE,Glasgow,14744,"Computer Science, Law",UK,8.0
+University of Toronto,Calgary,12125,"Engineering, Physics, AI, Computer Science",Canada,8.0
+ANU,Hobart,19670,"Robotics, Economics",Australia,7.0
+MIT,Palo Alto,19776,"Mathematics, Biology, AI, Economics",USA,8.0
+Western University,Edmonton,18654,"Physics, Law, Engineering, Robotics",Canada,7.5
+University of Western Australia,Darwin,11711,"Economics, Physics",Australia,7.5
+RMIT University,Brisbane,15022,"Law, Economics",Australia,7.5
+RMIT University,Darwin,10969,"Robotics, Economics, Computer Science",Australia,7.0
+McMaster University,Quebec City,17016,"Engineering, Robotics",Canada,7.0
+University of Waterloo,Toronto,15530,"Business, Computer Science, Biology, Robotics",Canada,8.0
+Columbia,San Francisco,17887,"Biology, Business, Mathematics",USA,8.0
+University of Manchester,Liverpool,14135,"Physics, Computer Science",UK,6.0
+Stanford,San Francisco,13960,"Law, Biology",USA,8.0
+LSE,Liverpool,18050,"Computer Science, Physics, Business, Biology",UK,7.0
+University of Manchester,Durham,18376,"Business, Physics, Biology",UK,8.0
+McMaster University,Edmonton,14380,"Economics, Business, Law",Canada,6.0
+UBC,Victoria,14075,"Economics, AI, Physics, Biology",Canada,6.0
+Columbia,San Francisco,12870,"Engineering, Biology, Economics",USA,6.0
+RMIT University,Adelaide,17466,"Mathematics, Robotics",Australia,8.0
+University of Melbourne,Wollongong,11667,"Computer Science, Robotics, Law, Physics",Australia,6.5
+Monash University,Wollongong,11623,"Physics, Economics",Australia,7.0
+University of Queensland,Melbourne,16678,"Computer Science, Law, Physics",Australia,6.5
+King's College London,Leeds,19635,"Economics, Mathematics, AI, Law",UK,6.0
+University of Melbourne,Perth,11767,"Physics, Law, Engineering",Australia,6.0
+University of Waterloo,Edmonton,15600,"Law, Robotics",Canada,6.0
+Durham University,Edinburgh,15000,"Robotics, Biology, Law",UK,7.0
+University of Technology Sydney,Hobart,12800,"Economics, AI, Physics, Computer Science",Australia,6.0
+Princeton,Chicago,10385,"Computer Science, Mathematics, Biology",USA,6.5
+Stanford,New York,15286,"Engineering, Robotics",USA,7.0
+Columbia,Philadelphia,14859,"Computer Science, Economics, Law, AI",USA,8.0
+University of Edinburgh,Liverpool,17165,"Law, Physics, Economics",UK,7.5
+Oxford,Cambridge,12204,"Mathematics, AI, Computer Science, Robotics",UK,6.5
+Duke,Durham,12039,"Business, Computer Science, Engineering, Biology",USA,6.0
+University of Edinburgh,Durham,11201,"Economics, Business, Biology",UK,6.5
+University of Toronto,Halifax,19294,"Robotics, Business, Computer Science, Engineering",Canada,6.0
+Queen's University,Ottawa,12474,"Economics, Computer Science, Biology",Canada,7.5
+Stanford,Boston,13687,"Law, Mathematics, Business, Biology",USA,7.0
+University of Manchester,Bristol,16178,"AI, Biology, Law, Computer Science",UK,6.5
+University of Waterloo,Winnipeg,11574,"Computer Science, Engineering",Canada,6.0
+Western University,Quebec City,16596,"Robotics, Business, Computer Science",Canada,7.0
+University of Melbourne,Canberra,10038,"Engineering, Business, Physics, Computer Science",Australia,6.0
+University of Sydney,Adelaide,15651,"Mathematics, Law, Business",Australia,6.5
+University of Toronto,Halifax,16048,"Robotics, Mathematics",Canada,7.0
+Cambridge,Cambridge,13292,"Economics, Engineering, Computer Science, Physics",UK,6.0
+Cambridge,Leeds,11377,"Physics, Robotics",UK,7.5
+University of Chicago,Cambridge,16436,"AI, Business, Engineering, Physics",USA,6.5
+Columbia,Palo Alto,13977,"Physics, Economics, Business, Engineering",USA,6.0
+Imperial College London,Cambridge,16347,"Robotics, Mathematics",UK,6.0
+University of Queensland,Wollongong,19488,"Biology, AI, Physics",Australia,7.5
+University of Sydney,Adelaide,18327,"Economics, Biology, Engineering, Mathematics",Australia,6.5
+Duke,Palo Alto,19768,"AI, Engineering",USA,6.5
+Harvard,Los Angeles,19705,"Biology, Robotics",USA,8.0
+Caltech,Cambridge,18317,"Economics, Engineering, Biology",USA,8.0
+University of Bristol,Cambridge,15377,"Computer Science, Mathematics, Physics, Business",UK,7.0
+Yale,Los Angeles,10107,"Mathematics, Business, Biology",USA,7.5
+McMaster University,Calgary,18796,"AI, Business, Economics",Canada,6.5
+Stanford,Cambridge,19047,"Law, Robotics, Business, Physics",USA,6.5
+Cambridge,Cambridge,16343,"Business, AI, Engineering, Computer Science",UK,6.0
+UNSW,Sydney,12207,"Economics, Robotics",Australia,8.0
+King's College London,Oxford,11603,"Engineering, Computer Science, AI, Law",UK,7.0
+Harvard,Los Angeles,13362,"Robotics, Computer Science, Engineering",USA,8.0
+University of Western Australia,Melbourne,18468,"Physics, Law, Engineering, Economics",Australia,8.0
+Duke,Philadelphia,16348,"Business, Physics, Computer Science, Engineering",USA,7.5
+University of Ottawa,Quebec City,10372,"Physics, Business, Biology",Canada,7.0
+Harvard,Durham,12827,"Computer Science, AI",USA,8.0
+Stanford,San Francisco,17519,"Computer Science, Biology, Economics",USA,8.0
+Imperial College London,Glasgow,10442,"Biology, Mathematics, Computer Science",UK,8.0
+Caltech,Princeton,19592,"Business, Robotics",USA,6.5
+LSE,Edinburgh,11329,"Robotics, Physics, Economics, Business",UK,7.0
+McGill University,Calgary,13163,"Physics, Biology",Canada,8.0
+RMIT University,Wollongong,19816,"Law, AI",Australia,7.5
+Duke,Princeton,11835,"Physics, Economics, Engineering, AI",USA,6.0
+University of Sydney,Melbourne,18037,"Economics, Engineering, Biology, Robotics",Australia,6.5
+Yale,Los Angeles,13468,"AI, Economics, Mathematics, Business",USA,7.5
+York University,Calgary,16390,"Physics, Business",Canada,7.5
+University of Chicago,Palo Alto,13192,"Physics, AI, Computer Science, Mathematics",USA,6.0
+Stanford,Los Angeles,17487,"Physics, Computer Science",USA,7.0
+Oxford,Bristol,19358,"Mathematics, Physics",UK,6.0
+Monash University,Sydney,19642,"AI, Computer Science, Engineering",Australia,6.0
+Imperial College London,Glasgow,12831,"Business, Robotics",UK,7.5
+Monash University,Sydney,12815,"Physics, Computer Science",Australia,6.0
+UNSW,Canberra,13798,"Business, Economics, Biology",Australia,7.5
+University of Bristol,London,13610,"Law, Business, Economics",UK,7.0
+University of Sydney,Brisbane,16500,"Robotics, Engineering",Australia,6.0
+York University,Winnipeg,18359,"Engineering, AI, Robotics, Economics",Canada,8.0
+RMIT University,Hobart,19155,"Biology, Physics, Law, Economics",Australia,6.0
+Cambridge,Durham,10199,"Physics, Economics, AI",UK,8.0
+University of Alberta,Winnipeg,10969,"Business, Economics",Canada,6.0
+University of Queensland,Melbourne,11502,"Engineering, Robotics, Computer Science, AI",Australia,6.0
+University of Edinburgh,Manchester,17367,"Mathematics, Physics, Robotics, AI",UK,7.5
+Queen's University,Edmonton,18048,"Physics, Economics",Canada,7.0
+RMIT University,Melbourne,15826,"Robotics, Business",Australia,7.0
+UNSW,Gold Coast,19308,"Physics, Engineering",Australia,6.5
+University of Glasgow,Edinburgh,15873,"Economics, Physics, Mathematics",UK,8.0
+University of Manchester,Liverpool,10978,"Economics, AI",UK,7.0
+University of Technology Sydney,Brisbane,18029,"Business, Mathematics, Engineering",Australia,6.5
+Duke,Palo Alto,18627,"Computer Science, Engineering, Biology",USA,7.0
+University of Western Australia,Melbourne,14730,"Economics, Computer Science",Australia,7.0
+UBC,Edmonton,10318,"Physics, AI, Business",Canada,7.5
+Caltech,New York,18219,"Biology, Economics, Physics",USA,6.5
+Queen's University,Quebec City,19653,"Mathematics, Biology, Business, AI",Canada,8.0
+Oxford,Bristol,10335,"Engineering, Physics, Robotics, Mathematics",UK,6.0
+University of Sydney,Gold Coast,19169,"Robotics, Mathematics, AI",Australia,7.0
+Imperial College London,Manchester,14248,"Business, Engineering, Law",UK,6.5
+University of Adelaide,Melbourne,11460,"Physics, Business",Australia,7.5
+Queen's University,Winnipeg,19755,"Economics, Computer Science, AI, Business",Canada,6.5
+Cambridge,Oxford,14293,"Engineering, Computer Science",UK,7.5
+Cambridge,London,11114,"Computer Science, Business, Economics, Engineering",UK,7.0
+University of Bristol,Manchester,12380,"Mathematics, AI, Physics, Robotics",UK,6.5
+Caltech,Los Angeles,12158,"Economics, Computer Science, Engineering",USA,6.5
+UBC,Edmonton,13736,"Law, Computer Science, Engineering, AI",Canada,7.0
+MIT,Palo Alto,10462,"Engineering, AI",USA,7.0
+Imperial College London,Glasgow,10010,"Physics, Robotics",UK,6.0
+University of Sydney,Sydney,17518,"Physics, AI, Law, Robotics",Australia,8.0
+McGill University,Toronto,19541,"Business, Computer Science, Biology, Robotics",Canada,8.0
+University of Alberta,Quebec City,17521,"Computer Science, Biology, Mathematics, Engineering",Canada,7.0
+UPenn,Princeton,16117,"Physics, Robotics, Law, Economics",USA,6.5
+Western University,Edmonton,19924,"Mathematics, Physics, Business, Law",Canada,8.0
+University of Bristol,London,18855,"AI, Law, Robotics, Engineering",UK,7.5
+Durham University,Durham,10182,"Business, Economics, Robotics, Law",UK,8.0
+University of Chicago,Cambridge,19497,"Physics, Engineering, Computer Science",USA,7.5
+RMIT University,Darwin,19873,"Economics, Business, Mathematics",Australia,7.5
+University of Toronto,Ottawa,14027,"Engineering, Business, Economics",Canada,6.5
+York University,Quebec City,13080,"Engineering, Biology",Canada,7.5
+University of Ottawa,Montreal,17403,"Robotics, Physics",Canada,7.5
+King's College London,Liverpool,17905,"Physics, Robotics",UK,6.0
+University of Adelaide,Canberra,17185,"Computer Science, Robotics, Mathematics",Australia,7.0
+Western University,Halifax,17575,"Law, Engineering",Canada,7.0
+Oxford,Leeds,19581,"Physics, Business, Engineering, Robotics",UK,7.0
+McMaster University,Victoria,11451,"Biology, Law, Economics",Canada,6.5
+Caltech,Chicago,13382,"Robotics, Mathematics",USA,6.5
+York University,Calgary,17848,"Biology, Physics, Mathematics",Canada,7.0
+University of Manchester,Durham,16840,"Biology, Economics",UK,7.5
+University of Melbourne,Gold Coast,17307,"Law, Mathematics, Robotics",Australia,8.0
+University of Alberta,Ottawa,10730,"Biology, Physics, Robotics",Canada,6.5
+MIT,Philadelphia,10480,"Engineering, Business, Physics, Mathematics",USA,6.0
+Cambridge,Cambridge,10188,"Mathematics, Computer Science",UK,6.5
+Stanford,Boston,12925,"Robotics, Engineering, Mathematics",USA,7.5
+ANU,Canberra,13629,"Mathematics, Economics",Australia,6.0
+University of Melbourne,Sydney,12921,"Business, Mathematics, Robotics",Australia,6.5
+University of Sydney,Sydney,10734,"Mathematics, Business, Physics",Australia,6.0
+Oxford,Manchester,11979,"Physics, Biology",UK,7.0
+University of Technology Sydney,Brisbane,16203,"AI, Law, Computer Science",Australia,6.5
+University of Western Australia,Brisbane,13348,"Computer Science, Business, Engineering",Australia,6.5
+Caltech,Chicago,17107,"Physics, Computer Science",USA,6.0
+UPenn,Los Angeles,18086,"AI, Law, Computer Science",USA,6.0
+University of Edinburgh,Bristol,15142,"Computer Science, Economics, Business",UK,8.0
+University of Western Australia,Perth,19732,"Biology, Physics",Australia,6.0
+University of Alberta,Victoria,18944,"Robotics, Business",Canada,6.5
+UPenn,San Francisco,18814,"Mathematics, Law, Business, Computer Science",USA,7.5
+UPenn,Palo Alto,14669,"AI, Economics, Law, Engineering",USA,6.0
+University of Queensland,Adelaide,13702,"Law, Physics, Robotics",Australia,8.0
+Duke,Philadelphia,19793,"Computer Science, Economics",USA,6.5
+RMIT University,Melbourne,15109,"Business, Mathematics",Australia,6.5
+Cambridge,Cambridge,18518,"Law, Biology",UK,6.5
+Caltech,Princeton,14795,"Engineering, Mathematics, Biology",USA,7.5
+UNSW,Adelaide,15094,"Robotics, Business",Australia,7.5
+University of Edinburgh,Edinburgh,17039,"AI, Physics",UK,7.0
+York University,Montreal,13144,"Business, Mathematics",Canada,6.0
+Duke,New York,16008,"Business, Physics",USA,6.0
+Duke,Palo Alto,17939,"Physics, Robotics, Mathematics, Biology",USA,6.0
+Imperial College London,Cambridge,10325,"Computer Science, Law",UK,7.5
+University of Waterloo,Calgary,16949,"Biology, Computer Science, Mathematics",Canada,8.0
+King's College London,Edinburgh,17834,"Mathematics, Computer Science, Robotics, Physics",UK,7.0
+MIT,Durham,16943,"Business, Law, Biology, Robotics",USA,7.5
+University of Sydney,Sydney,15780,"Mathematics, Computer Science, Biology, Engineering",Australia,7.5
+University of Sydney,Hobart,12229,"Law, Physics, Computer Science",Australia,6.5
+University of Toronto,Calgary,19999,"Robotics, Business, Mathematics, AI",Canada,8.0
+University of Waterloo,Winnipeg,19233,"Computer Science, Economics, Mathematics",Canada,7.5
+Princeton,Palo Alto,16645,"Physics, AI, Mathematics",USA,8.0
+King's College London,Cambridge,14580,"Mathematics, Computer Science",UK,6.5
+University of Manchester,London,15480,"AI, Physics, Law, Business",UK,7.5
+University of Technology Sydney,Darwin,13694,"Computer Science, Engineering, AI",Australia,6.5
+Duke,Durham,14924,"Robotics, Biology, Mathematics, Law",USA,7.0
+Columbia,Palo Alto,13514,"Law, Engineering, Computer Science",USA,6.5
+University of Sydney,Gold Coast,19199,"Economics, Mathematics",Australia,7.5
+University of Alberta,Halifax,11749,"Law, Biology, AI",Canada,7.5
+University of Manchester,Glasgow,19971,"Computer Science, Mathematics, Economics, Biology",UK,7.5
+King's College London,London,14269,"Mathematics, Economics, Business, Law",UK,8.0
+University of Adelaide,Gold Coast,10479,"AI, Biology",Australia,8.0
+Imperial College London,Cambridge,19597,"Law, Economics, Physics",UK,7.0
+Durham University,Edinburgh,19886,"Law, Computer Science, Economics, Physics",UK,8.0
+King's College London,Cambridge,10611,"Computer Science, AI",UK,8.0
+Stanford,Durham,19694,"Engineering, Biology, Economics, Business",USA,7.0
+UNSW,Hobart,13686,"AI, Computer Science, Biology, Business",Australia,6.0
+Durham University,Edinburgh,11491,"Physics, Computer Science, Mathematics, Engineering",UK,7.0
+LSE,Manchester,18041,"Engineering, Biology, Physics, Law",UK,8.0
+University of Adelaide,Melbourne,17447,"Computer Science, Physics",Australia,7.5
+University of Melbourne,Perth,11179,"AI, Physics, Robotics",Australia,6.0
+UPenn,Philadelphia,14836,"AI, Business, Economics, Mathematics",USA,8.0
+Queen's University,Quebec City,16482,"AI, Robotics",Canada,8.0
+ANU,Adelaide,11614,"Law, Engineering, Business",Australia,8.0
+University of Ottawa,Toronto,17487,"Law, AI",Canada,8.0
+MIT,Los Angeles,10910,"Biology, Law, Business",USA,7.0
+University of Edinburgh,Manchester,13205,"Robotics, Mathematics, Engineering, Economics",UK,7.5
+University of Waterloo,Victoria,16950,"Business, Computer Science, Biology",Canada,8.0
+Durham University,Liverpool,19524,"Biology, Business, Engineering, Physics",UK,6.5
+UNSW,Gold Coast,19056,"Mathematics, Computer Science",Australia,7.0
+University of Sydney,Canberra,16209,"Economics, Computer Science",Australia,6.5
+Durham University,Oxford,14826,"Business, Engineering, AI",UK,7.5
+Western University,Ottawa,15816,"Engineering, Business, AI",Canada,6.5
+Imperial College London,Cambridge,14616,"Business, Robotics, Law",UK,7.5
+University of Waterloo,Winnipeg,17628,"Robotics, Physics",Canada,8.0
+MIT,Los Angeles,19583,"Law, Mathematics",USA,7.5
+Princeton,Palo Alto,14158,"Computer Science, Mathematics, Robotics, Physics",USA,6.5
+Harvard,Philadelphia,13329,"Robotics, Business",USA,7.5
+King's College London,Manchester,14685,"Biology, Law, Economics, Mathematics",UK,6.5
+University of Manchester,Edinburgh,13956,"Physics, Engineering, Mathematics",UK,8.0
+York University,Montreal,13467,"AI, Computer Science, Business",Canada,6.5
+University of Queensland,Adelaide,18198,"Engineering, Robotics, Mathematics",Australia,7.5
+UBC,Victoria,17940,"Computer Science, Business, Biology, Engineering",Canada,7.5
+LSE,Edinburgh,19546,"Mathematics, Business, Economics, Computer Science",UK,8.0
+Monash University,Melbourne,15089,"Physics, Economics, Robotics",Australia,6.5
+McMaster University,Victoria,10543,"Robotics, AI, Computer Science",Canada,6.0
+MIT,Chicago,11252,"AI, Business, Biology, Robotics",USA,7.5
+Stanford,Philadelphia,16733,"Business, Computer Science",USA,8.0
+University of Western Australia,Adelaide,18455,"Business, Computer Science",Australia,7.5
+Caltech,Palo Alto,13547,"Physics, Business, Computer Science, AI",USA,7.5
+UNSW,Wollongong,11794,"Physics, Mathematics, Biology, Computer Science",Australia,7.0
+Western University,Edmonton,16134,"Physics, Robotics",Canada,7.0
+University of Queensland,Adelaide,13649,"AI, Biology, Business, Mathematics",Australia,6.5
+McMaster University,Toronto,13356,"Robotics, Engineering, Business, Mathematics",Canada,8.0
+University of Melbourne,Darwin,16569,"AI, Robotics, Business, Law",Australia,6.5
+McMaster University,Quebec City,15120,"Physics, Mathematics",Canada,6.0
+ANU,Perth,16128,"Economics, Computer Science",Australia,7.5
+Imperial College London,Edinburgh,10203,"Economics, Computer Science, Physics, Biology",UK,6.5
+University of Sydney,Melbourne,12106,"Robotics, Mathematics, Biology, Law",Australia,6.5
+UPenn,New York,11872,"Engineering, Economics",USA,7.5
+Duke,Palo Alto,15027,"AI, Engineering, Computer Science",USA,7.5
+LSE,Manchester,12064,"Law, Mathematics, Biology",UK,7.5
+University of Chicago,Los Angeles,10959,"Biology, Business, Physics, Robotics",USA,7.5
+UNSW,Melbourne,16738,"Economics, Robotics, Engineering, Physics",Australia,6.5
+University of Melbourne,Sydney,19206,"Business, Mathematics",Australia,7.0
+York University,Edmonton,16189,"Engineering, Physics, Economics",Canada,7.0
+University of Glasgow,London,12789,"Computer Science, Business",UK,7.5
+Cambridge,Manchester,16783,"Economics, Robotics",UK,7.0
+University of Alberta,Edmonton,17898,"AI, Economics, Mathematics",Canada,8.0
+University of Sydney,Melbourne,18625,"Robotics, Economics, Mathematics",Australia,8.0
+University of Melbourne,Sydney,15176,"Engineering, Law",Australia,8.0
+Monash University,Sydney,12123,"Economics, Physics, Business, AI",Australia,7.0
+University of Edinburgh,Liverpool,17287,"Economics, Engineering",UK,6.5
+King's College London,Manchester,13601,"Law, Computer Science",UK,6.5
+Duke,Palo Alto,14144,"Law, Economics",USA,8.0
+University of Toronto,Quebec City,14192,"Computer Science, Physics",Canada,6.5
+Caltech,Durham,15602,"Computer Science, Economics",USA,7.0
+King's College London,Manchester,18064,"Law, Economics",UK,6.5
+University of Glasgow,Oxford,15326,"Computer Science, Mathematics, AI",UK,6.5
+Durham University,Edinburgh,19827,"AI, Mathematics, Computer Science",UK,7.5
+RMIT University,Wollongong,19684,"AI, Computer Science, Engineering",Australia,8.0
+Harvard,Palo Alto,18031,"Engineering, Mathematics, Business, Economics",USA,8.0
+UBC,Winnipeg,12624,"AI, Physics",Canada,6.5
+University of Manchester,Oxford,17767,"Mathematics, Business, Biology, Economics",UK,7.0
+Yale,Philadelphia,11937,"AI, Law, Computer Science, Robotics",USA,7.0
+University of Alberta,Quebec City,19035,"AI, Computer Science, Robotics, Business",Canada,7.0
+McGill University,Vancouver,10008,"AI, Robotics",Canada,6.5
+Durham University,Leeds,17741,"Economics, Physics, Biology, Engineering",UK,6.5
+Columbia,Chicago,18093,"Law, AI, Engineering",USA,6.0
+University of Edinburgh,Edinburgh,12663,"Robotics, Mathematics, Biology, Engineering",UK,7.0
+University of Chicago,Durham,17894,"Law, AI, Robotics, Computer Science",USA,6.5
+University of Bristol,Manchester,16043,"Engineering, Biology, Business",UK,7.5
+University of Glasgow,Bristol,16795,"Physics, Robotics",UK,7.5
+Monash University,Wollongong,17327,"Mathematics, Physics, AI, Robotics",Australia,7.5
+University of Edinburgh,Edinburgh,10390,"Business, Computer Science, Biology, Engineering",UK,7.0
+Western University,Toronto,18544,"Biology, Law, Physics, Robotics",Canada,8.0
+York University,Ottawa,15995,"Biology, Physics, Mathematics, Law",Canada,7.0
+UNSW,Melbourne,15698,"Economics, Engineering, Computer Science",Australia,7.5
+York University,Edmonton,14629,"Business, Computer Science, Mathematics",Canada,7.0
+Columbia,New York,11360,"AI, Mathematics",USA,6.5
+University of Waterloo,Victoria,17270,"Business, Physics, Engineering, Computer Science",Canada,8.0
+Western University,Edmonton,16517,"Biology, Computer Science, Law, Engineering",Canada,7.0
+McGill University,Calgary,11840,"Robotics, Business, Mathematics",Canada,6.0
+University of Sydney,Perth,10870,"Mathematics, Computer Science, Law",Australia,6.0
+University of Technology Sydney,Sydney,16248,"Mathematics, Biology",Australia,6.0
+UNSW,Hobart,11415,"Biology, Mathematics, Economics",Australia,6.0
+Cambridge,Liverpool,14798,"AI, Mathematics, Engineering, Physics",UK,6.0
+McGill University,Calgary,13943,"Mathematics, Engineering",Canada,8.0
+University of Ottawa,Edmonton,14541,"Economics, Engineering, Biology, Business",Canada,8.0
+UNSW,Melbourne,13581,"AI, Law, Economics, Physics",Australia,7.5
+Princeton,San Francisco,15683,"Mathematics, Engineering, Computer Science",USA,6.0
+UNSW,Gold Coast,12729,"Engineering, Mathematics, Law",Australia,6.0
+University of Melbourne,Gold Coast,16505,"Business, Biology, AI",Australia,7.5
+Queen's University,Vancouver,12795,"Law, Physics, Engineering, Robotics",Canada,7.0
+University of Sydney,Canberra,11514,"Business, Law, AI",Australia,8.0
+King's College London,Edinburgh,10172,"Law, AI",UK,7.5
+University of Chicago,New York,17480,"Physics, Robotics, AI, Computer Science",USA,7.0
+University of Chicago,Los Angeles,10128,"Computer Science, Law, Robotics",USA,7.5
+Caltech,San Francisco,11037,"Biology, Law",USA,6.0
+King's College London,Glasgow,12179,"Physics, AI",UK,8.0
+University of Western Australia,Adelaide,10638,"Biology, Mathematics",Australia,6.5
+University of Edinburgh,Durham,13561,"Physics, Computer Science, Robotics, AI",UK,7.0
+Imperial College London,Durham,18897,"Economics, AI, Biology, Computer Science",UK,7.5
+University of Glasgow,Bristol,15877,"Business, Computer Science",UK,7.0
+University of Bristol,Durham,18041,"Mathematics, Robotics, Engineering, Biology",UK,6.5
+ANU,Gold Coast,12172,"Computer Science, AI, Law, Biology",Australia,8.0
+York University,Quebec City,18592,"Economics, Mathematics, Biology, Physics",Canada,8.0
+Western University,Halifax,13855,"Engineering, Robotics, AI",Canada,7.0
+University of Toronto,Quebec City,18386,"Engineering, Mathematics, Economics",Canada,8.0
+Western University,Montreal,14977,"Biology, Computer Science, AI, Mathematics",Canada,7.0
+UNSW,Brisbane,16530,"Computer Science, Business",Australia,8.0
+University of Technology Sydney,Canberra,15695,"Physics, Economics",Australia,8.0
+LSE,Oxford,18592,"Robotics, Law, Engineering, Computer Science",UK,8.0
+University of Alberta,Montreal,11664,"Mathematics, Biology, Law",Canada,7.0
+University of Glasgow,Liverpool,13969,"Law, Biology",UK,7.5
+University of Technology Sydney,Sydney,15867,"Economics, AI, Biology, Business",Australia,7.5
+Monash University,Hobart,10496,"Business, Physics",Australia,7.5
+Yale,Los Angeles,14503,"Computer Science, Engineering",USA,7.0
+Caltech,Princeton,18675,"Business, Computer Science, Law",USA,7.5
+McMaster University,Toronto,16160,"Biology, Mathematics, Physics",Canada,8.0
+ANU,Canberra,16622,"Computer Science, Physics",Australia,6.0
+Durham University,Bristol,15131,"Economics, Physics, AI",UK,6.5
+University of Sydney,Darwin,19473,"Robotics, Business, Engineering",Australia,6.5
+University of Toronto,Toronto,15137,"Business, Law, Robotics",Canada,7.5
+Caltech,Philadelphia,17933,"Computer Science, Engineering",USA,7.0
+Monash University,Darwin,13858,"Biology, Mathematics, Law",Australia,8.0
+University of Sydney,Gold Coast,17760,"Engineering, Biology, Mathematics, Physics",Australia,6.5
+Monash University,Sydney,11755,"Engineering, Business, Physics",Australia,7.0
+Duke,San Francisco,12477,"Mathematics, Law",USA,6.0
+University of Alberta,Edmonton,17099,"Law, Physics, Engineering",Canada,6.0
+Columbia,Boston,14535,"Law, Physics, Business, AI",USA,6.5
+LSE,Cambridge,18621,"Biology, Mathematics, Economics",UK,7.5
+University of Toronto,Halifax,13506,"Business, Engineering, Robotics",Canada,8.0
+Duke,Cambridge,15519,"Economics, Robotics, Biology, AI",USA,7.0
+LSE,Oxford,13118,"Economics, Law, Biology",UK,8.0
+University of Bristol,Bristol,15776,"Biology, Computer Science, AI",UK,6.0
+Oxford,Durham,14566,"Computer Science, Physics, Engineering",UK,7.5
+University of Toronto,Quebec City,12145,"Physics, Business, Engineering",Canada,6.0
+Oxford,Bristol,15510,"Computer Science, Mathematics, Law, Business",UK,8.0
+Queen's University,Quebec City,18168,"Engineering, Physics",Canada,6.5
+York University,Calgary,18354,"Biology, Physics, Economics, Robotics",Canada,7.0
+Oxford,Liverpool,18957,"Engineering, Physics",UK,6.5
+Queen's University,Toronto,16362,"Mathematics, Computer Science, Economics, Physics",Canada,6.0
+University of Bristol,Liverpool,10079,"Mathematics, Physics, Law, Robotics",UK,6.5
+Caltech,Philadelphia,13904,"Business, Law",USA,6.5
+Oxford,Durham,11796,"Business, AI, Law, Robotics",UK,6.0
+Cambridge,Bristol,17341,"Business, Physics, Computer Science",UK,6.5
+University of Alberta,Ottawa,10861,"Robotics, Business, Physics, Engineering",Canada,6.5
